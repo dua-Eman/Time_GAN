@@ -5,6 +5,7 @@ This repository contains a fully working implementation of **TimeGAN** applied t
 - **Dua Eman**
 - **Rabia Ejaz**
 - **Anila Khan**
+  
 as part of the **Big Data Analytics – CEP 2 Experimental Study**.
 Special thanks to the supporting faculty and the online research community.
 
