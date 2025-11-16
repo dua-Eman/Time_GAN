@@ -29,18 +29,12 @@ The juyter notebook BDA_TimeGAN_CEP_2.ipynb contains all the scripts used to tra
 6. Evaluate: Discriminative, Predictive, PCA, t-SNE
 
 ## Requirement
-python >= 3.9.15
-
-pytorch >= 1.13.1
-
-cuda >= 11.7.1
-
-numpy >= 1.23.4
-
-pandas >= 1.5.3
-
-matplotlib >= 3.6.2
-
+- python >= 3.9.15
+- pytorch >= 1.13.1
+- cuda >= 11.7.1
+- numpy >= 1.23.4
+- pandas >= 1.5.3
+- matplotlib >= 3.6.2
 ## Reproducibility
 This repository is fully plug-and-play
 - Clone repository
@@ -55,6 +49,7 @@ https://github.com/AlanDongMu/TimeGAN_PytorchRebuild.git
 TimeGAN Paper:
 "Time-series Generative Adversarial Networks" — Yoon et al., NeurIPS 2019
 https://papers.nips.cc/paper/2019/file/c9efe5f26cd17ba6216bbe2a7d26d490-Paper.pdf
+
 All results will regenerate identically.
 
 **⭐ If you found this project useful, give the repo a star!**
